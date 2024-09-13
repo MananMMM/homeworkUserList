@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "name": "Hakob",
+      "salary": 750000,
+      "id": "105"
+    },
+    {
+      "name": "Narek",
+      "salary": 150000,
+      "id": "3a43"
+    },
+    {
+      "id": "0782",
+      "name": "Aram",
+      "salary": 240000
+    },
+    {
+      "id": "3065",
+      "name": "Anahit",
+      "salary": 1500000
+    },
+    {
+      "id": "2689",
+      "name": "Arevik",
+      "salary": 900000
+    }
+  ]
+}
